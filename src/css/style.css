@@ -1,0 +1,58 @@
+h2 {
+    color: rgb(176, 4, 4);
+    text-align: center;
+    margin-top: 13%;
+}
+
+.foto {
+    position: absolute;
+    top: -75px;
+    left: 33%;
+}
+
+img {
+    width: 125px;
+    height: 125px;
+    border-radius: 50%;
+}
+
+.root {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.post {
+    position: relative;
+    width: 300px;
+    margin:auto;
+    margin-bottom: 20px;
+    margin-top: 25px;
+    padding: 20px;
+    border: 2px solid rgba(249, 249, 249);
+    border-radius: 10px;
+    background-color:rgba(248, 248, 248);
+    display:inline-block;
+}
+
+.recomendacao {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 10%;
+    font-weight: bold;
+} 
+
+.depoimento {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10%;
+}
+
+body {
+    padding:50px;
+    background-color:rgba(234, 234, 234);
+}
